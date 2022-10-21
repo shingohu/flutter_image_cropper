@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1762293930/android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/1762293930/android.flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1762293930/android.flutter_plugin_android_lifecycle.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1762293930/android.flutter_plugin_android_lifecycle.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1762293930/android.flutter_plugin_android_lifecycle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1762293930/android.flutter_plugin_android_lifecycle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1762293930/android.flutter_plugin_android_lifecycle.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1762293930/android.flutter_plugin_android_lifecycle.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1088735672/android.image_cropper.iml" filepath="$PROJECT_DIR$/.idea/modules/-1088735672/android.image_cropper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1088735672/android.image_cropper.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1088735672/android.image_cropper.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1088735672/android.image_cropper.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1088735672/android.image_cropper.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1088735672/android.image_cropper.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1088735672/android.image_cropper.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-979212825/android.image_picker_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-979212825/android.image_picker_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-979212825/android.image_picker_android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-979212825/android.image_picker_android.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-979212825/android.image_picker_android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-979212825/android.image_picker_android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-979212825/android.image_picker_android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-979212825/android.image_picker_android.unitTest.iml" />
+    </modules>
+  </component>
+</project>
