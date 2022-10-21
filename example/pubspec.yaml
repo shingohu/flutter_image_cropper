@@ -30,7 +30,8 @@ dev_dependencies:
 
   dotted_border: ^2.0.0+2
   image_cropper:
-    path: ../
+    git:
+      url: "https://github.com/shingohu/flutter_image_cropper.git"
 
 flutter:
 
